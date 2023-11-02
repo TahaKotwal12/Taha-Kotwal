@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/taha kotwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha kotwal" height="30" width="40" /></a>
 <a href="https://kaggle.com/taha kotwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taha kotwal" height="30" width="40" /></a>
 <a href="https://instagram.com/__taha_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__taha_k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tahakotwal54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tahakotwal54" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tahakotwal54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tahakotwal54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
